@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Zadaniedomowe3</string>
+    <string name="shake_me">8</string>
+    <string name="menu_shake">Shake</string>
+    <string name="stgaa">Shake to get an answer</string>
+
+    <string-array name="answers">
+        <item> It is\ncertain.</item>
+        <item>It is\ndecidedly\nso.</item>
+        <item>Without\na doubt.</item>
+        <item>Yes -\ndefinitely.</item>
+        <item>You may\nrely on it.</item>
+        <item>As I see\nit, yes.</item>
+        <item>Most\nlikely.</item>
+        <item>Outlook\ngood.</item>
+        <item>Yes.</item>
+        <item>Signs point\nto yes</item>
+        <item>Reply hazy,\ntry again.</item>
+        <item>Ask again\nlater.</item>
+        <item>Better\nnot tell\nyou now.</item>
+        <item>Cannot\npredict\nnow.</item>
+        <item>Concentrate\nand ask\nagain.</item>
+        <item>Do not count\non it.</item>
+        <item>My reply\nis no.</item>
+        <item>My sources\nsay no.</item>
+        <item>Outlook\nnot so\ngood</item>
+        <item>Very\ndoubtful.</item>
+    </string-array>
+
+</resources>
